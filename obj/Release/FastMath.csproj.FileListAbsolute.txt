@@ -1,0 +1,10 @@
+C:\Users\Sourcerer\source\repos\FastMath\FastMath\bin\Release\FastMath.exe.config
+C:\Users\Sourcerer\source\repos\FastMath\FastMath\bin\Release\FastMath.exe
+C:\Users\Sourcerer\source\repos\FastMath\FastMath\bin\Release\FastMath.pdb
+C:\Users\Sourcerer\source\repos\FastMath\FastMath\obj\Release\FastMath.csprojResolveAssemblyReference.cache
+C:\Users\Sourcerer\source\repos\FastMath\FastMath\obj\Release\FastMath.Form1.resources
+C:\Users\Sourcerer\source\repos\FastMath\FastMath\obj\Release\FastMath.Properties.Resources.resources
+C:\Users\Sourcerer\source\repos\FastMath\FastMath\obj\Release\FastMath.csproj.GenerateResource.cache
+C:\Users\Sourcerer\source\repos\FastMath\FastMath\obj\Release\FastMath.csproj.CoreCompileInputs.cache
+C:\Users\Sourcerer\source\repos\FastMath\FastMath\obj\Release\FastMath.exe
+C:\Users\Sourcerer\source\repos\FastMath\FastMath\obj\Release\FastMath.pdb
